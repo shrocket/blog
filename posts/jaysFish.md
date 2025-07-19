@@ -11,3 +11,8 @@ We named the fish Rocinante.
 Some member of the audience saved the fish every single performance.
 
 To this day, I do not know if Jay would have, after some internally decided upon period of time, saved the fish himself. I would not have.
+
+<figure>
+    <img src="https://www.dir.gen.tr/image/1331015-0-jays-fish-bar.jpg" width="400">
+    <figcaption style="font-size: 80%">essentially, a completely unrelated image</figcaption>
+</figure>
