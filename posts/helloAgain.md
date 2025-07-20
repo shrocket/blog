@@ -23,4 +23,4 @@ I'll start with what this is not going to be. This is not going to be monetized.
 
 This is going to be whatever I want it to be. It's going to be random. It's going to be stupid. It's going to be cheap. It's going to be shitty. Stick around anyway.
 
-Maybe at some point, I'll add a way for you to subscribe.
+Maybe at some point, I'll add a way for you to subscribe. Or even some CSS!
