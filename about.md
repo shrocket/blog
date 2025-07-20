@@ -1,5 +1,5 @@
 ---
-layout: postLayout.liquid
+layout: indexLayout.liquid
 pageTitle: any minor world that breaks apart falls together again
 ---
 
