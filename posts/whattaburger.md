@@ -1,5 +1,5 @@
 ---
-postTitle: Whattaburger
+pageTitle: Whattaburger
 ---
 
 # And again
