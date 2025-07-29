@@ -44,6 +44,8 @@
   }
 }
 
+/* TYPES */
+
 body {
   padding: 20px;
   margin: 0 auto;
@@ -102,6 +104,14 @@ footer {
 ul {
   font-size: 1em;
 }
+
+blockquote {
+  border-left-style: solid;
+  border-left-width: 0.5rem;
+  border-left-color: var(--color-hoverfocus);
+}
+
+/* LINK BEHAVIOR */
 
 a {
   outline: none;
